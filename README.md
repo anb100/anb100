@@ -1,7 +1,7 @@
 
 ### Hello World  👋
 
-Welcome to my github (Mirror Version) repositories My name is Tony Nicolau and my skills are related with little projects in Java, Javascript , and others ... here you could find anything from sophisticated stylesheets to python scripts, and I'll upload more content about exploits in the next months. All you can find here is what i currently manage in cibersecurity , I also use this space for host my websites and scripts . I'll try to share with the comunity like always and continue learning from the best ,by the way thank you very much greetings from here. 
+Welcome to my github (Mirror Version the Original is anb00 - "this is also mine") repositories My name is Tony Nicolau and my skills are related with little projects in Java, Javascript , and others ... here you could find anything from sophisticated stylesheets to python scripts, and I'll upload more content about exploits in the next months. All you can find here is what i currently manage in cibersecurity , I also use this space for host my websites and scripts . I'll try to share with the comunity like always and continue learning from the best ,by the way thank you very much greetings from here. 
 
 And greetings to github por host pages,repositories,for make community and much more. https://anb00.github.io/FullStackanb/
 
